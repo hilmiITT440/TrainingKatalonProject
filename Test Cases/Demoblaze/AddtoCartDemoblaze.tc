@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test add to cart in demoblaze</description>
+   <name>AddtoCartDemoblaze</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>561ebae2-2173-441c-86bb-42157d7ccb2e</testCaseGuid>
+</TestCaseEntity>

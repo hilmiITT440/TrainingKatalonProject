@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ParameterizeWebObjectDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7779129-de9e-4aeb-b1ec-154762d3b747</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>814e1269-b2e3-49a4-b109-ba5090ab97e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'None'</defaultValue>
+      <description></description>
+      <id>814e1269-b2e3-49a4-b109-ba5090ab97e8</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+</TestCaseEntity>

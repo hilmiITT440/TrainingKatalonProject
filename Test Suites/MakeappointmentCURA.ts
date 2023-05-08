@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MakeappointmentCURA</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f80b51b3-74ea-4798-9aad-df48d64da2b6</testSuiteGuid>
+   <testCaseLink>
+      <guid>6cb03de0-3090-4e61-84da-5bc2af6f3901</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDrivenTestCURA/RecordDemoDataDrivenTest</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b956a3d4-4ae4-46ca-b0b3-177d0f6304d6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CURA</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8fec78df-e83a-4095-bce6-92093e7f44aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e85f909f-7a56-4dd2-93b5-e337a77335b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5f35ff99-1ed6-4962-b1c7-01ba9fb5f499</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b956a3d4-4ae4-46ca-b0b3-177d0f6304d6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>af2d422c-8687-4a3e-a419-31deda069bc3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

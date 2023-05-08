@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DemoblazeSignUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7774b21e-1916-4b48-81f2-3889d1cdc49a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0148c5b-95ae-481e-b46e-3a37fabcc88e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fd1db64-b93a-499a-bad9-0e59a98cd8a4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0148c5b-95ae-481e-b46e-3a37fabcc88e</id>
+      <masked>false</masked>
+      <name>usernameGenerator</name>
+   </variable>
+   <variable>
+      <defaultValue>'o+tS4OuGt32nW2fw4d97xA=='</defaultValue>
+      <description></description>
+      <id>4fd1db64-b93a-499a-bad9-0e59a98cd8a4</id>
+      <masked>false</masked>
+      <name>passwordLogin</name>
+   </variable>
+</TestCaseEntity>

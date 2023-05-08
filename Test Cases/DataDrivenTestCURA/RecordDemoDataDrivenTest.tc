@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ini test gunda record mode</description>
+   <name>RecordDemoDataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50acb5dc-ac2b-4122-9532-a91c1ea0dfcb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8fec78df-e83a-4095-bce6-92093e7f44aa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e85f909f-7a56-4dd2-93b5-e337a77335b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f35ff99-1ed6-4962-b1c7-01ba9fb5f499</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af2d422c-8687-4a3e-a419-31deda069bc3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>8fec78df-e83a-4095-bce6-92093e7f44aa</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>e85f909f-7a56-4dd2-93b5-e337a77335b8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>5f35ff99-1ed6-4962-b1c7-01ba9fb5f499</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af2d422c-8687-4a3e-a419-31deda069bc3</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+</TestCaseEntity>
